@@ -1,0 +1,9 @@
+{
+  "bioUrl": "https://raw.githubusercontent.com/Destaq/destaq.github.io/master/misc/bio.html",
+  "social": {
+    "github": "jo-project",
+    "linkedin": "jo-project"
+  },
+  "theme": "catppuccin",
+  "border": true
+}
